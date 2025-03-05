@@ -27,8 +27,9 @@ This project is a simple ticketing system developed as part of the **Data Struct
 3. Follow the on-screen menu to book, search, modify, or delete tickets.
 
 ## Project Collaborators
-- **China Mae Gonzales**
-- **Caryll Labay**
+- **[China Mae Gonzales](https://github.com/chinagonzales)**
+- **[Caryll Labay](https://github.com/caryll-labay)**
 
 ## License
-This project is for educational purposes only. 
+This project is for educational purposes only. Feel free to modify and use it as needed.
+
